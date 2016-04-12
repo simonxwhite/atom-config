@@ -1,4 +1,6 @@
 "*":
+  autosave:
+    enabled: true
   core:
     themes: [
       "atom-dark-ui"
